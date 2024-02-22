@@ -1,0 +1,31 @@
+.centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 85vh; /* Centraliza verticalmente */
+}
+
+.example-card {
+  width: 400px; /* Define a largura desejada */
+  height: 450px; /* Define a altura desejada */
+  padding: 10px;
+padding-top: 30px;
+
+
+}
+
+mat-toolbar{
+  display: flex;
+  justify-content: center; // Centraliza horizontalmente
+  align-items: center; // Centraliza verticalmente
+
+}
+
+
+mat-card{
+  text-align: center;
+}
+
+#main-title{
+  font-weight:700;
+}
